@@ -1,0 +1,27 @@
+{
+	"useTabs": true,
+	"tabWidth": 4,
+	"trailingComma": "es5",
+	"semi": true,
+	"overrides": [
+		{
+			"files": "*.yml",
+			"options": {
+				"tabWidth": 2,
+				"useTabs": false
+			}
+		},
+		{
+			"files": "*.subtest.ts",
+			"options": {
+				"printWidth": 100
+			}
+		},
+		{
+			"files": "*.subtest.tsx",
+			"options": {
+				"printWidth": 100
+			}
+		}
+	]
+}
