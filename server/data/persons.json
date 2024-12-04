@@ -1,14 +1,14 @@
 [
-  {
-    "name": "Phone",
-    "tel": 123123,
-    "city": "City",
-    "id": "2f2dd9b5-91dc-40c3-b23a-e31030898a45"
-  },
-  {
-    "name": "asdsad",
-    "tel": null,
-    "city": "asdasd",
-    "id": "1b451283-2ead-4504-bb93-8381c712a9c5"
-  }
+	{
+		"name": "Adam",
+		"tel": 99999999,
+		"city": "Berlin",
+		"id": "2f2dd9b5-91dc-40c3-b23a-e31030898a45"
+	},
+	{
+		"name": "Ivan",
+		"tel": 99999999,
+		"city": "Krakow",
+		"id": "1b451283-2ead-4504-bb93-8381c712a9c5"
+	}
 ]
